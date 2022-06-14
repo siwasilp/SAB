@@ -5,8 +5,6 @@
 
 ![MiR-Maneuvering-through-Door](https://user-images.githubusercontent.com/54813971/173580586-7544c5b4-dd79-4670-b2f1-673102195b47.jpg)
 
-![images](https://user-images.githubusercontent.com/54813971/173580592-b0836ba1-a2ed-4975-8087-a7e712547b19.jpg)
-
 ![cover-ros-navigation-stack](https://user-images.githubusercontent.com/54813971/173580504-9993698d-5cba-443b-81b6-b1364de892d9.jpg)
 ![mappingthein](https://user-images.githubusercontent.com/54813971/173580536-2358638f-cdfe-47fb-a308-1a086a6de1cc.jpg)
 
