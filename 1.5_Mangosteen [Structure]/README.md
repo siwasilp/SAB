@@ -1,18 +1,16 @@
 # 1/5_Mangosteen
 
-# size.
-## A = 3 M.
+## size   , A = 3 M.
 ![284956039_360927736133328_7066884844307050218_n](https://user-images.githubusercontent.com/54813971/173578470-32488848-34c7-4d5b-97ab-d1860b9079aa.jpg)
 ![287327265_444070920399336_4385376341963782408_n](https://user-images.githubusercontent.com/54813971/173578474-17da79c3-ba6d-4786-8d46-7a948b875951.png)
 
-# Jig Req.
-## G = BEEMOON
+# Jig Req , G = BEEMOON
 ![285076527_444503384084188_4429429009847952249_n](https://user-images.githubusercontent.com/54813971/173578395-f11ce249-a0db-4f58-98c4-ccefa2e53d44.jpg)
 ![285330962_558158612355141_8990965051805972063_n](https://user-images.githubusercontent.com/54813971/173578406-b5383afd-c45c-48b9-a6ae-121557b8e657.jpg)
 ![285559868_2876984065934868_7948617203870522823_n](https://user-images.githubusercontent.com/54813971/173578413-60f22022-a77c-4e36-96aa-4d948d764e15.jpg)
 ![285275926_1056259198600009_4306296934259046766_n](https://user-images.githubusercontent.com/54813971/173579412-f6116af3-40c9-4cb3-be79-87f637d0fc2b.jpg)
 
-# MASTER_1
+# Video MASTER_1
 https://user-images.githubusercontent.com/54813971/173578222-782b7f62-ff20-479d-8ed5-1b98c5379da1.mp4
 
 ==================================
