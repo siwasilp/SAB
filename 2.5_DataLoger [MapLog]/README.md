@@ -1,6 +1,8 @@
 # 2/5_DataLoger [MapLog]
 
 >> DATABASE ?
+>> NODE ?
+>> LOGIN USER EDIT/ADD_NODE ?
 
 ## IDAE...
 
